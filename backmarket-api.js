@@ -37,7 +37,7 @@ app.get('/api/:category', function (req, res){
     });
 })
 
-app.listen(8000)
-console.log('Server started at http://127.0.0.1:8000/')
+app.listen(6464)
+console.log('Server started at http://backmarket.slyman.com/api/')
 
 })
